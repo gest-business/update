@@ -1,7 +1,7 @@
 {
-  "version": "1.2.1",
-  "notes_ar": "تحديث جديد يحل مشكلة قراءة النصوص والتقارير البيضاء ويحسن الأداء العام.",
-  "notes_fr": "Nouvelle mise à jour résolvant les problèmes de lecture des rapports et améliorant la stabilité globale.",
-  "downloadUrl": "https://github.com/gest-business/update/releases/download/v1.2.1/gest-business.pro.Setup.1.2.1.exe",
+  "version": "1.2.2",
+  "notes_ar": "تحديث جديد للإصدار v1.2.2 يحل بعض المشاكل التقنية ويحسن الأداء العام واستقرار البرنامج.",
+  "notes_fr": "Nouvelle mise à jour v1.2.2 résolvant les problèmes techniques et améliorant la stabilité globale de l'application.",
+  "downloadUrl": "https://github.com/gest-business/update/releases/download/v1.2.2/gest-business.pro.Setup.1.2.2.exe",
   "mandatory": false
 }
